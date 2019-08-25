@@ -1,0 +1,14 @@
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\bin\Debug\netcoreapp2.1\SEDC.PizzaHut.BusinessLayer.deps.json
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\bin\Debug\netcoreapp2.1\SEDC.PizzaHut.BusinessLayer.dll
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\bin\Debug\netcoreapp2.1\SEDC.PizzaHut.BusinessLayer.pdb
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\bin\Debug\netcoreapp2.1\SEDC.PizzaHut.DataLayer.dll
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\bin\Debug\netcoreapp2.1\SEDC.PizzaHut.Domain.dll
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\bin\Debug\netcoreapp2.1\SEDC.PizzaHut.DataLayer.pdb
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\bin\Debug\netcoreapp2.1\SEDC.PizzaHut.Domain.pdb
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.BusinessLayer.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.BusinessLayer.AssemblyInfo.cs
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.BusinessLayer.csproj.CopyComplete
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.BusinessLayer.dll
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.BusinessLayer\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.BusinessLayer.pdb

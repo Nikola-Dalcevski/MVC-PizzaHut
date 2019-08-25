@@ -1,0 +1,9 @@
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.Domain\bin\Debug\netcoreapp2.1\SEDC.PizzaHut.Domain.deps.json
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.Domain\bin\Debug\netcoreapp2.1\SEDC.PizzaHut.Domain.dll
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.Domain\bin\Debug\netcoreapp2.1\SEDC.PizzaHut.Domain.pdb
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.Domain\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.Domain.csprojAssemblyReference.cache
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.Domain\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.Domain\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.Domain.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.Domain\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.Domain.AssemblyInfo.cs
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.Domain\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.Domain.dll
+C:\Users\nikol\Desktop\GitMvc\sedc7-08-aspnetmvc\g4\Class 6\SEDC.PizzaHut\SEDC.PizzaHut.Domain\obj\Debug\netcoreapp2.1\SEDC.PizzaHut.Domain.pdb
